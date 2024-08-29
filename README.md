@@ -40,6 +40,10 @@ This project focuses on developing a Convolutional Neural Network (CNN) model to
 
 To get started with this project, you will need to have Python and the required libraries installed. You can follow these steps:
 
-1. **Clone the Repository**:
-   ```bash
+## Dataset
+
+The dataset used for this project was obtained from Kaggle. It includes images for fire and non-fire scenarios, which were used to train and evaluate the CNN model.
+
+- **Dataset Source**: [Kaggle Fire and Non-Fire Dataset](https://www.kaggle.com/datasets/atulyakumar98/test-dataset)
+
    
